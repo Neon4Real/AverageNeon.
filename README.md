@@ -19,7 +19,7 @@
 ---
 <br><br>
 
-I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, TS but I'm always willing to learn new things! I am 22 years old and I live in the uae. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via<a href="#contact">  below links! </a>
+I am a full-stack developer. I have experience with PHP, JAVA, JS, HTML, and TS but I'm always willing to learn new things! I am 22 years old and I live in the UAE. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via<a href="#contact">  below links! </a>
 <br><br>
 
 <a href="https://discord.com/channels/@me/755297485328482356"> <img src="https://discord.c99.nl/widget/theme-5/760855112859648041.png" alt="contact mee">
@@ -69,7 +69,7 @@ I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, TS but 
   <img src="https://github-readme-stats.vercel.app/api?username=AverageNeon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AverageNeon&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="AverageNeon"/>
 
-![](https://komarev.com/ghpvc/?username=corwindev&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=cmxn3on&label=PROFILE+VIEWS)
 </a>
 </div>
 
@@ -81,13 +81,13 @@ I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, TS but 
 
 <li>
 <a href="https://instagram.com/cmxn3on" target="_blank">
-<img src="https://img.shields.io/badge/instagram:CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram:cmxn3on-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
 <li>
 <a href="https://www.linkedin.com/in/cmxn3on/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:Cmxn3on-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
 </ul>
